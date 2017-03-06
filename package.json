@@ -1,0 +1,14 @@
+{
+  "name": "babel-plugin-minify-string-literals",
+  "version": "0.0.1",
+  "description": "",
+  "homepage": "https://github.com/babel/babili#readme",
+  "author": "AshleyScirra",
+  "license": "MIT",
+  "main": "src/index.js",
+  "keywords": [
+    "babel-plugin"
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}
